@@ -2,6 +2,7 @@
 
 ## Admin
 
+- [ ] Give Sharan a fiver.
 - [ ] Create Github Accoun
 - [ ] Set up on your computer (`git config`)
 - [ ] Set up ssh access (add public key to your GitHub account)
